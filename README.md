@@ -31,7 +31,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=klua007&label=Visitas%20no%20perfil&color=9B5CF6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/klua007?label=Seguidores&style=for-the-badge&color=9B5CF6" alt="followers" />
   <img src="https://img.shields.io/badge/Status-Codando%20%F0%9F%94%A5-22C55E?style=for-the-badge" alt="status" />
 </p>
