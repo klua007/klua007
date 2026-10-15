@@ -1,46 +1,33 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  ✏️  LEIA ANTES DE PUBLICAR (este comentário não aparece no GitHub) ║
-  ╚══════════════════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║  ✏️  VERSÃO ALTERNATIVA — SEM BANNER E SEM LINKS DE CONTATO           ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 
-  1. Troque TODAS as ocorrências de "Klua" e "klua007"
-     (use Ctrl+H / Cmd+H no editor para trocar tudo de uma vez).
+  Este arquivo é uma versão "limpa" do README do perfil:
+    • não usa imagem de banner (não precisa subir a pasta assets/)
+    • não tem LinkedIn, Instagram, e-mail nem botões de contato
+    • só precisa de UM arquivo: este README + os repositórios fixados
 
-  2. Troque os "#" dos links de contato pelos seus links reais.
+  Para publicar:
+    1. Renomeie este arquivo para README.md (o GitHub só renderiza esse nome)
+    2. Crie um repositório PÚBLICO chamado "klua007" (github.com/klua007/klua007)
+    3. Suba o README.md sozinho — pronto. ✨
 
-  3. Para publicar: crie um repositório PÚBLICO com o MESMO nome do seu usuário
-     (ex.: github.com/joaosilva/joaosilva) e coloque este README.md + a pasta
-     assets/ na raiz dele. O README aparece automaticamente no seu perfil.
-
-  4. A seção "Projetos em destaque" está comentada logo abaixo — quando quiser
-     usar, é só descomentar (remover o <!-- e o -->) e preencher.
-
-  5. As curiosidades são editáveis: ajuste pra ficar com a SUA cara. 😉
+  A seção "Projetos em destaque" está comentada logo abaixo — é só descomentar
+  e preencher quando quiser.
 -->
-
-<div align="center">
-  <img src="./assets/banner.png" alt="Banner de Klua" width="100%" />
-</div>
 
 <h1 align="center">E aí, eu sou <strong>Klua</strong> 🎨💻</h1>
 
 <p align="center">
   <strong>Dev full-stack</strong> · poliglota de código · arte, graffiti e desenho nas horas vagas<br/>
-  <sub>📍 Brasil &nbsp;•&nbsp; 🌎 aberto a colaborações, freelas e projetos malucos</sub>
+  <sub>📍 Brasil &nbsp;•&nbsp; 🌎 aberto a colaborações e projetos open source</sub>
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=24&pause=900&color=9B5CF6&center=true&vCenter=true&width=640&lines=Aprendo+uma+linguagem+nova+por+semana+(quase);Do+banco+de+dados+ao+deploy+em+produ%C3%A7%C3%A3o;Se+compila%2C+eu+testo.+Se+n%C3%A3o+compila%2C+eu+rabisco+no+papel;Arte+e+c%C3%B3digo+s%C3%A3o+a+mesma+coisa+%F0%9F%8E%A8" alt="typing" />
   </a>
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-klua007-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-klua007-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-@klua007-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Behance-desenhos-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/E--mail-fala%20comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -193,19 +180,6 @@ poderia ser: qualquer coisa entre "front", "back", "mobile", "dados" e "arte dig
       <p align="center"><a href="#">🔍 Ver código</a> · <a href="#">🚀 Demo ao vivo</a></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔗 nome-do-projeto-3</h3>
-      <p align="center">O que ele faz, em uma frase que dá vontade de clicar.</p>
-      <p align="center"><code>Flutter</code> <code>Firebase</code></p>
-      <p align="center"><a href="#">🔍 Ver código</a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📌 Todos os repos</h3>
-      <p align="center">Os projetos fixados aqui embaixo no perfil contam a história melhor que qualquer lista.</p>
-      <p align="center"><a href="https://github.com/klua007?tab=repositories">👉 Ver todos os repositórios</a></p>
-    </td>
-  </tr>
 </table>
 
 ═══════════════════════════════════════════════════════════════════ -->
@@ -257,19 +231,7 @@ Acredito que arte e tecnologia se alimentam: a rua ensina composição, cor e co
 
 > _"Código é só mais uma superfície pra pintar em cima."_ — eu, provavelmente 🎨
 
-🧷 Portfólio de arte, sketches e processos: **em breve** *(coloca aqui seu link do Instagram/Behance)*
-
 ---
-
-## 🤝 Bora trocar uma ideia?
-
-Aberto a **colaborações, freelas, projetos open source** e conversas aleatórias sobre código, arte e tecnologia.
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Me%20manda%20um%20e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Chama%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vem%20ver%20meus%20desenhos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
 
 <div align="center">
   <br/>
@@ -302,7 +264,5 @@ Aberto a **colaborações, freelas, projetos open source** e conversas aleatóri
 3. ✏️ I debug by drawing — paper beats console more often than you'd think.
 4. 🎨 Code and graffiti share the same recipe: layer, layer, layer, outline, highlight.
 5. 🌙 My favorite coding hours are deep at night, when the world logs off.
-
-📫 **Reach me:** *(put your links here — email, LinkedIn, Instagram)*
 
 </details>
